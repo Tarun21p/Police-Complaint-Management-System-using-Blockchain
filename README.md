@@ -12,19 +12,25 @@ To implement this project we have designed following modules
 2)	Police: police can login to application using username and password given by admin and then add new FIR and can add updated investigations and all other police station peoples can view all FIR and updated investigations.
 
 SCREEN SHOTS :
+
 ![image](https://github.com/Tarun21p/Police-Complaint-Management-System-using-Blockchain/assets/127124654/3695fd33-ce89-470a-8e28-368f5b6f4916)
+
 In above screen admin can click on ‘Add New Police Users’ link to get below page
 
 ![image](https://github.com/Tarun21p/Police-Complaint-Management-System-using-Blockchain/assets/127124654/501431ba-ea67-47c5-b443-6554c442c9a1)
+
 In above screen admin will add new Police personnel details and then give this login details to police personnel to add FIR details
 
 ![image](https://github.com/Tarun21p/Police-Complaint-Management-System-using-Blockchain/assets/127124654/4f4f7cc4-e6f3-4d96-93f6-cb32e8eb65c5)
+
 In above screen police can click on ‘Add FIR/NCR/Charge sheet’ link to add FIR
 
 ![image](https://github.com/Tarun21p/Police-Complaint-Management-System-using-Blockchain/assets/127124654/32868d1c-2d51-4722-b752-5c7ef0446c88)
+
 In above screen police user can add all Crime details as FIR and then upload crime related file and then click on ‘Open’ and ‘Submit’ button
 
 ![image](https://github.com/Tarun21p/Police-Complaint-Management-System-using-Blockchain/assets/127124654/6d400ee3-d4a3-44ee-b6a9-9f0bf062a1cc)
+
 In above screen police can view all crime investigation from Blockchain from anywhere
 
 
